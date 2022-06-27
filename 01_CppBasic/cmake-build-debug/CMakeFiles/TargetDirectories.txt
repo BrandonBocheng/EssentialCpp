@@ -1,4 +1,0 @@
-/Users/bochenghu/myCpp/HeimaProgramCppTutorial/01_CppBasic/cmake-build-debug/CMakeFiles/01_Variable.dir
-/Users/bochenghu/myCpp/HeimaProgramCppTutorial/01_CppBasic/cmake-build-debug/CMakeFiles/02_Const.dir
-/Users/bochenghu/myCpp/HeimaProgramCppTutorial/01_CppBasic/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/bochenghu/myCpp/HeimaProgramCppTutorial/01_CppBasic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
